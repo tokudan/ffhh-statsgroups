@@ -7,8 +7,11 @@ Jede Zeile in der Datei ist eine Regular Expression, es können beliebig viele Z
 
 ### Beispiel
 Dateiname: Rote Flora
+
 Inhalt:
+
 ^Flora-Bleibt-Unvertraeglich-.*
+
 ^bb-flora-.*
 
 Es wird ein Eintrag in der Statistik gebildet, mit den Namen " Gruppe: Rote Flora".
