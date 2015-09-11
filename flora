@@ -1,2 +1,1 @@
-Flora-Bleibt-Unvertraeglich-.*
-bb-flora-.*
+^Flora-Bleibt-Unvertraeglich-.*|^bb-flora-.*
