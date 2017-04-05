@@ -1,7 +1,7 @@
 Konfiguration für die Gruppen in der Freifunk Statistik
 
 ## Format
-Jede Datei in groups.regex beschreibt eine Gruppe. Der Dateiname entspricht dem Gruppennamen, die Datei README.txt wird ignoriert.
+Jede Datei beschreibt eine Gruppe. Der Dateiname entspricht dem Gruppennamen, die Datei README.txt wird ignoriert.
 Die erste Zeile in der Datei ist eine Regular Expression. Es wird nur die erste Zeile ausgelesen.
 
 ### Beispiel
